@@ -7,6 +7,15 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 •  Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Positivo - 2024
 
 # Cursos
-•  Java COMPLETO Programação Orientada a Objetos + Projeto
+• :coffee: Java COMPLETO Programação Orientada a Objetos + Projeto
 
-•  Oracle Certified Associate (OCA) Java 8
+• :coffee:  Oracle Certified Associate (OCA) Java 8
+
+<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
+
+# Tecnologias 💼
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,git,kubernetes,docker,npm,vim,postman,bootstrap,css,html, " />
+  </a>
+</p>
