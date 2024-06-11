@@ -16,6 +16,14 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 # Tecnologias 💼
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,git,kubernetes,docker,npm,vim,postman,bootstrap,css,html, " />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,kubernetes,docker,npm,vim,bootstrap,css,html, " />
   </a>
 </p>
+
+# ⚙ Ferramentas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,eclipse,figma,gitlab,idea,kafka,redhat,linux,windows,vscode,visualstudio " />
+  </a>
+</p>
+
