@@ -16,7 +16,7 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 # Tecnologias 💼
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,kubernetes,docker,npm,vim,bootstrap,css,html,c,cs,kotlin " />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,npm,vim,bootstrap,css,html,c,cs,kotlin " />
   </a>
 </p>
 
