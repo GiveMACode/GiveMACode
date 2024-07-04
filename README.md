@@ -7,7 +7,7 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GiveMACode&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=GiveMACode&show_icons=true&theme=radical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GiveMACode&show_icons=true" />
@@ -15,7 +15,7 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=3"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=3&theme=radical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=1" />
