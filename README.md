@@ -27,7 +27,6 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 # Cursos
 • :coffee: Java COMPLETO Programação Orientada a Objetos + Projeto
 
-• :coffee:  Oracle Certified Associate (OCA) Java 8
 
 <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
