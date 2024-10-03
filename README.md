@@ -18,7 +18,7 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=3&theme=radical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=5" />
 </picture>
 
 # Formação Acadêmica 🎓
