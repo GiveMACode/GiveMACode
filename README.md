@@ -1,17 +1,8 @@
 # Bem-vindo ao Meu Portfólio no GitHub :space_invader:
-Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de experiência em Backend, e 1 ano em FullStack, também tenho 6 anos de experiência em área administrativa e 2 anos de gestão de pessoas.
+Eai! Aqui é o Vinicius, Sou Analista e Desenvolvedor de Software, com 4 anos de experiência em Backend, e 1 ano em FullStack, também tenho 6 anos de experiência em área administrativa e 3 anos de gestão de pessoas.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atvi.ni/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiveMACode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-atanasio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-atanasio)
 
-
-
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=3&theme=radical"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiveMACode&langs_count=5" />
-</picture>
 
 # Formação Acadêmica 🎓
 •  Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Positivo - 2024
