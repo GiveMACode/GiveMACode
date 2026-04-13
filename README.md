@@ -1,5 +1,6 @@
 # Bem-vindo ao Meu Portfólio no GitHub :space_invader:
 Eai! Aqui é o Vinicius, Sou Analista e Desenvolvedor de Software, com 4 anos de experiência em Backend, e 1 ano em FullStack, também tenho 6 anos de experiência em área administrativa e 3 anos de gestão de pessoas.
+Estarei atualizando meu portfólio devido mudanças em minha carreira e para focar em uma stack de linguagens e tecnologias.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-atanasio)
 
