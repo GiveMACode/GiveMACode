@@ -24,10 +24,6 @@ Eai! Aqui é o Vini, Sou Analista e Desenvolvedor de Software, com 2 anos de exp
 # Formação Acadêmica 🎓
 •  Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Positivo - 2024
 
-# Cursos
-• :coffee: Java COMPLETO Programação Orientada a Objetos + Projeto
-
-
 <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
 # Tecnologias 💼
