@@ -11,14 +11,14 @@
 # Tecnologias 💼
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,dotnet,gitlab,maven,hibernate,mongodb,nodejs,vuejs,react,vuetify,npm,vim,bootstrap,css,html,c,cs,kotlin " />
+    <img src="https://skillicons.dev/icons?i=postgres,angular,dotnet,nodejs,react,npm,css,html,c,cs " />
   </a>
 </p>
 
 # ⚙ Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,eclipse,figma,gitlab,idea,kafka,redhat,linux,windows,vscode,visualstudio,androidstudio,apple,github,sqlite,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,linux,windows,vscode,visualstudio,github,sqlite," />
   </a>
 </p>
 
